@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<studentdata>
+    <student>
+        <name>Sravan Kumar</name>
+        <id>7058</id>
+        <department>IT</department>
+    </student>
+    <student>
+        <name>Meghana</name>
+        <id>7034</id>
+        <department>IT</department>
+    </student>
+    <student>
+        <name>Pranathi</name>
+        <id>7046</id>
+        <department>EEE</department>
+    </student>
+    <student>
+        <name>Durga</name>
+        <id>7078</id>
+        <department>Mech</department>
+    </student>
+    <student>
+        <name>Ishitha</name>
+        <id>7093</id>
+        <department>MBA</department>
+    </student>
+</studentdata>
