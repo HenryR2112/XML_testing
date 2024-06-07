@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<studentdata>
+    <student>
+        <name>John Doe</name>
+        <id>7105</id>
+        <department>Physics</department>
+    </student>
+    <student>
+        <name>Jane Smith</name>
+        <id>7120</id>
+        <department>Chemistry</department>
+    </student>
+</studentdata>
