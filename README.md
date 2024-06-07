@@ -1,4 +1,4 @@
-A processing system from aritifically creating and dealing with XML files in a non-relational structure and transforming them into a more
+A processing system from artifically creating and dealing with XML files in a non-relational structure and transforming them into a more
 intuitive pandas relational structure for machine learning and processing as it relates to potential underlying trends.
 Current iterations does the following:
 1. xml_generator - creates 100 xml files using student information with a random ID 1-8000 and 1/2 of the group being assignment a gpa
